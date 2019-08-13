@@ -27,3 +27,6 @@ For this project, you will be following the steps in the general outline with so
 First, you will not be testing the model in its own step. You will still be testing the model, however, you will do it by deploying your model and then using the deployed model by sending the test data to it. One of the reasons for doing this is so that you can make sure that your deployed model is working correctly before moving forward.
 
 In addition, you will deploy and use your trained model a second time. In the second iteration you will customize the way that your trained model is deployed by including some of your own code. In addition, your newly deployed model will be used in the sentiment analysis web app.
+
+
+#### P.S. This project is a part of Udacity Deep Learning Nanodegree Program. I have executed it on my local machine with all the project rubrics to meet all the required specifications. The project has been then uploaded here for reference.
