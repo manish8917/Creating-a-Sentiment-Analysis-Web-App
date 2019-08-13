@@ -30,4 +30,4 @@ In addition, you will deploy and use your trained model a second time. In the se
 
 
 ### Please Note:
-### This project work is a part of Udacity Deep Learning Nanodegree Program. Executed it on my local machine with all the project rubrics to meet all required specifications & uploaded here for reference.
+### I've executed this project work on my local machine with all the project rubrics to meet all required specifications of Udacity Nanodegree Program & uploaded here for reference.
